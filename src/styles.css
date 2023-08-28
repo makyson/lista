@@ -1,0 +1,25 @@
+table,
+th,
+td {
+  border: 1px solid rgb(0, 0, 0);
+  border-collapse: collapse;
+}
+
+.logo{
+  width: 20px;
+  height: 20px;
+/*
+
+  background-color: #ddd;
+  border-radius: 50%;
+  height: 100%;
+  object-fit: cover;
+  width: 30%;  
+}*/}
+.LOGO1{
+
+  width: 20px;
+  height: 20px;
+ 
+  
+}

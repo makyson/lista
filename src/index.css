@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+div.container {
+  height: 100%;
+ 
+}
+
+div.titulo {
+  font-size: 2vw;
+color: blue;
+  text-align: center;
+  padding: 1vw;
+  position: relative;
+  
+}
+
+div.op1 {
+  width: 32%;
+/*  background-color: aquamarine;*/
+   display: inline-block;
+   margin-right: 1vw;
+   font-size: 1vw;
+   text-align: center;
+   padding: 1vw 0vw 4vw 0vw;
+   min-width:40vw;
+}
+
+div.op2 {
+  width: 32%;
+ background-color: aquamarine;
+  display: inline-block;
+  margin-right: 0vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 1vw 0vw 4vw 0vw;
+  min-width:40vw;
+}
+
+div.op3 {
+  width: 32%;
+ background-color: aquamarine;
+  display: inline-block;
+  margin-right: 0vw;
+  font-size: 1vw;
+  text-align: center;
+  padding: 1vw 0vw 4vw 0vw;
+  min-width:40vw;
+}
+
+
+
+th{
+width: 100%;
+
+}
+td{
+  width: 100px;
+}
+
+.LOGO1{
+
+
+ 
+    display: built-in block;
+    border-radius: 50%;
+    overflow: hidden;
+  
+    width: 30%;
+    height: auto;
+    
+
+  /*
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+   */
+}
+
+.LOGO12{
+
+
+  display: built-in block;
+  border-radius: 10%;
+  overflow: hidden;
+
+  width: 50%;
+  height: auto;
+  /*
+ 
+    width: 30%;
+    height: 100px;
+    object-fit: cover;
+    */
+  }
+  .texto{
+    font-size: 1vw;
+  }
+  
